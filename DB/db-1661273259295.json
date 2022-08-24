@@ -1,0 +1,76 @@
+{
+  "infoDate": [
+    {
+      " id": 0,
+      "bg": "bg-success",
+      "mainIcon": "fa fa-star-ofa-solid fa-star",
+      "dagree": 123,
+      "title": "Employees",
+      "par": 90,
+      "degreeIcon": "fa fa-long-arrow-up",
+      "degreeText": "Grate"
+    },
+    {
+      " id": 1,
+      "bg": "bg-danger",
+      "mainIcon": "fa fa-star-ofa-solid fa-star",
+      "dagree": 10,
+      "title": "trainees",
+      "par": 5,
+      "degreeIcon": "fa fa-long-arrow-up",
+      "degreeText": "Grate"
+    },
+    {
+      " id": 2,
+      "bg": "bg-info",
+      "mainIcon": "fa fa-star-ofa-solid fa-star",
+      "dagree": 20,
+      "title": "Attendance",
+      "par": 60,
+      "degreeIcon": "fa fa-long-arrow-up",
+      "degreeText": "Grate"
+    },
+    {
+      " id": 3,
+      "bg": "bg-warning",
+      "mainIcon": "fa fa-star-ofa-solid fa-star",
+      "dagree": 82,
+      "title": "Referral",
+      "par": 980,
+      "degreeIcon": "fa fa-long-arrow-up",
+      "degreeText": "Grate"
+    }
+  ],
+  "dataEmployee": [
+    {
+      "name": "mostafa",
+      "phone": "+21002812",
+      "address": "Quesna-Menoufia",
+      "Salary": "120",
+      "Attendance_date": "1720",
+      "check_out_date": "4154",
+      "currentSalary": "15012",
+      "id": 0
+    },
+    {
+      "name": "mus",
+      "phone": "+2010883812",
+      "address": "Quesna-Menoufia",
+      "Salary": "120",
+      "Attendance_date": "120",
+      "check_out_date": "414",
+      "currentSalary": "1502",
+      "id": 1
+    },
+    {
+      "name": "alu",
+      "phone": "+201002883812",
+      "address": "Quesna-Menofia",
+      "Salary": "120",
+      "Attendance_date": "10",
+      "check_out_date": "44",
+      "currentSalary": "102",
+      "id": 2
+    }
+  ]
+}

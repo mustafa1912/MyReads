@@ -1,0 +1,58 @@
+@font-face {
+  font-family: Alumni;
+  src: url(./Fonts/Alumni_Sans_Pinstripe/AlumniSansPinstripe-Regular.ttf);
+}
+
+@font-face {
+  font-family: Indie;
+  src: url(./Fonts/Indie_Flower/IndieFlower-Regular.ttf);
+}
+
+@font-face {
+  font-family: Maven;
+  src: url(./Fonts/Maven_Pro/MavenPro-VariableFont_wght.ttf);
+}
+
+body {
+  margin: 0;
+  /* text-transform: capitalize; */
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #247881 !important;
+  border-color: #247881 !important;
+}
+a {
+  text-decoration: none;
+}
+
+.book-title {
+  font-family: Alumni;
+  color: #000;
+}
+
+.reader {
+  font-family: Maven;
+}
+
+.reader p {
+  font-family: Maven;
+  /* color: #000; */
+}
+
+.img-book {
+  background-image: url(./imgs/git.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  height: 400px;
+}
+
+.bt-search {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

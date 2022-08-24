@@ -1,0 +1,157 @@
+{
+  "allBooks": [
+    {
+      "id": 0,
+      "name": "allBooks",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 1,
+      "name": "Best Baby Names",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 2,
+      "name": "My Name Is khan",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 3,
+      "name": "Jane Eyre",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 4,
+      "name": "David Copperfield",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 5,
+      "name": "Emma",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 6,
+      "name": "HtMl",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 7,
+      "name": "Matilda",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 8,
+      "name": "HtMl",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 9,
+      "name": "The Name Jar",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 10,
+      "name": "Gather Together in My Name",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 11,
+      "name": "The numerology guidebook",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 12,
+      "name": "Bhagavad Gita PDF in Punjabi",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 13,
+      "name": "Bhagavad Gita Bhashya",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 14,
+      "name": "Indian Hindu",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 15,
+      "name": "css",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    }
+  ],
+  "reading": [
+    {
+      "id": 11,
+      "name": "The numerology guidebook",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    }
+  ],
+  "read": [
+    {
+      "id": 15,
+      "name": "css",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 10,
+      "name": "Gather Together in My Name",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    },
+    {
+      "id": 1,
+      "name": "Best Baby Names",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    }
+  ],
+  "wantToRead": [
+    {
+      "id": 11,
+      "name": "The numerology guidebook",
+      "authorName": "fa fa-star-ofa-solid fa-star",
+      "year": 2020,
+      "Category": "Employees"
+    }
+  ]
+}
